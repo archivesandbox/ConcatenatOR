@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "ConcatenatOR",
+    "version": "1.0",
+    "permissions": ["clipboardWrite"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png"
+      }
+    },
+    "icons": {
+      "16": "icon16.png"
+    }
+  }
+  
+  
