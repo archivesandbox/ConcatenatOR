@@ -1,8 +1,9 @@
 # ConcatenatOR
 ### Description
 
-This simple Chrome extension takes a column of strings, adds " OR " between them and copies the resulting string to the clipboard.
-This string can then be pasted into the search bar in ArchivesSpace to isolate a group of titles, identifiers, or other criteria. This works well in the filter search bar in the Accessions module and in the Manage Top Containers module. 
+This simple Chrome extension takes a column of strings, adds the boolean operator " OR " between them and copies the resulting string to the clipboard.
+The string can then be pasted into the search bar in ArchivesSpace to isolate a group of titles, identifiers, or other criteria. 
+This works well in the filter search bar in the Accessions module and in the Manage Top Containers module. 
 When used in Manage Top Containers, the search results can easily be bulk edited in various ways.
 
 ### Installation
