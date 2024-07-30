@@ -1,0 +1,24 @@
+
+  
+  {
+    "manifest_version": 3,
+    "name": "ConcatenatOR",
+    "version": "1.0",
+    "description": "Concatenate strings with OR and copy to clipboard. Useful when searching for ids in ASpace and other searches that support boolean operators",
+    "icons": {
+      "16": "icons/icon16.png"
+      // "48": "icons/icon48.png",
+      // "128": "icons/icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/icon16.png"
+        // "48": "icons/icon48.png",
+        // "128": "icons/icon128.png"
+      },
+      "default_popup_width": 420
+    },
+    "permissions": ["clipboardWrite"]
+  }
+  
