@@ -16,8 +16,11 @@ The string can then be pasted into the search bar in ArchivesSpace (or any other
 - Select and copy a group of search strings that are separated by line breaks/they each occupy a row in a column of a table
       Example:
       5489
+
       1274
+
       13902
+
       10006
   Result: 5489 OR 1274 OR 13902 OR 10006
   - Alternately, the strings can be typed directly into the text input box of the extension
